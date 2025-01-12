@@ -25,7 +25,7 @@ List<TodoModel> todos = [
       subtitle: 'щас разберём дом и заново построим'),
   const TodoModel(
       title: 'Make tasks for new tasks', subtitle: 'вообще хз что тут писать'),
-  const TodoModel(title: 'сигна для Навии', subtitle: 'всего 34 крутки'),
+  const TodoModel(title: 'сигна для Навии', subtitle: 'всего 42 крутки'),
   const TodoModel(
       title: 'купить колбасу', subtitle: 'что делать когда тебя все обижают'),
   const TodoModel(
